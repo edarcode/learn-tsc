@@ -1,0 +1,26 @@
+{
+  "name": "learn-tsc",
+  "version": "1.0.0",
+  "description": "Aprendiendo tsc para backend",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "dev": "ts-node-dev index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edarcode/learn-tsc.git"
+  },
+  "keywords": [],
+  "author": "edarcode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edarcode/learn-tsc/issues"
+  },
+  "homepage": "https://github.com/edarcode/learn-tsc#readme",
+  "devDependencies": {
+    "ts-node-dev": "2.0.0",
+    "typescript": "4.8.2"
+  }
+}
